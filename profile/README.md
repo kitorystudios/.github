@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/assets/hero.png" alt="Kitory Studios" width="100%">
+  <img src=".github/hero.png" alt="Kitory Studios" width="100%">
 </p>
 
 <h1 align="center">Kitory Studios</h1>
